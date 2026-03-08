@@ -27,7 +27,7 @@ src/FileCabinet/SuiteScripts/SuiteMind AI/
 ├── JG_SL_SuiteMindAI_admin.js         # Admin upload panel
 ├── JG_SL_SuiteMindAI_aichat.js        # Chat interface
 ├── JG_SL_SuiteMindAI_backend.js       # AI processing logic
-├── JG_SL_SuiteMindAI_Hackathon.js     # Experimental features
+├── JG_SL_SuiteMindAI_Hackathon.js     # Hidden MVP Dashboard
 └── Lib/JG_Lib_SuiteMindAI_Helper.js   # Helper library
 ```
 
@@ -39,6 +39,7 @@ src/FileCabinet/SuiteScripts/SuiteMind AI/
 - 👨‍💼 Admin dashboard for knowledge base management
 - 🔒 Security features (XSS protection, file validation)
 - 📊 Support for multiple knowledge base documents
+- 📊 Visualize workflows and see real-time AI impact analysis of SuiteMind AI Processes.
 
 ## Current Knowledge Base
 
@@ -73,9 +74,10 @@ The application uses the following script parameters:
 ## 🛠️ Technologies & APIs
 
 - **NetSuite**: SuiteCloud platform
-- **Language Model**: Cohere Command Model via N/llm API
-- **Document Processing**: N/documentCapture API
+- **Netsuite LLM Engine**: llm API
+- **OCI Document Processing API**: documentCapture API
 - **File Management**: N/file API
+- **Language**: JavaScript (NetSuite SuiteScript 2.1)
 - **Utilities**: N/runtime, N/log, N/url, N/search, N/record
 
 ## 📝 AI Behavior & Instructions
@@ -98,22 +100,19 @@ The AI is configured with specific system instructions to:
 ## 📋 Development Notes
 
 1. Sandbox Refresh Checklist
-2. Purge Framework
+2. Purge Framework Process
 3. Custom List Management System
 
 ## How It Works
 
-1. **Admin uploads PDFs** → Documents stored in File Cabinet
-2. **User asks a question** → Sent to AI backend
-3. **AI analyzes documents** → Finds relevant information  
-4. **Response generated** → Displayed to user in chat
+1. Login to Netsuite, Go to Home page > Support > Custom > SuiteMind AI, Click on to use it
+2. **Admin uploads PDFs** → Documents stored in File Cabinet
+3. **User asks a question** → Sent to AI backend
+4. **AI analyzes documents** → Finds relevant information  
+5. **Response generated** → Displayed to user in chat
+6. **Process Intelligence Dashboard** --> Visualize workflows and see real-time AI impact analysis of SuiteMind AI Processes.
 
-## Technologies Used
 
-- **Platform**: NetSuite SuiteCloud
-- **AI Model**: Cohere Command Model
-- **APIs**: N/llm, N/documentCapture, N/file
-- **Language**: JavaScript (NetSuite SuiteScript 2.1)
 
 ## Getting Started
 
