@@ -107,7 +107,7 @@ The AI is configured with specific system instructions to:
 
 ## How It Works
 
-1. Login to Netsuite, Go to Home page > Support > Custom > SuiteMind AI, Click on to use it
+1. **Login to Netsuite**, Go to Home page > Support > Custom > SuiteMind AI, Click on to use it
 2. **Admin uploads PDFs** → Documents stored in File Cabinet
 3. **User asks a question** → Sent to AI backend
 4. **AI analyzes documents** → Finds relevant information  
