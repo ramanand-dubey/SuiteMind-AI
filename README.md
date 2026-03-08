@@ -36,7 +36,7 @@ src/FileCabinet/SuiteScripts/SuiteMind AI/
 
 - 📄 PDF document uploads and processing
 - 💬 Interactive chat interface  
-- 🤖 AI-powered responses using Cohere Command model
+- 🤖 AI-powered responses
 - 👨‍💼 Admin dashboard for knowledge base management
 - 🔒 Security features (XSS protection, file validation)
 - 📊 Support for multiple knowledge base documents
