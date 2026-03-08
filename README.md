@@ -18,6 +18,7 @@ An AI-powered chatbot for NetSuite that answers questions about NetSuite functio
 | **Admin** | Upload and manage knowledge base PDFs |
 | **Backend** | Processes questions and generates AI responses |
 | **Helper Library** | Shared utilities and configuration |
+|**Dashboard** | Visualize workflows and see real-time AI impact analysis of SuiteMind AI Processes. |
 
 ## Project Structure
 
