@@ -5,7 +5,7 @@
  */
 /**
  * Version       Date           Author                 Description
- * 1.0           26-02-2026     Ramanand Dubey         Initial version - SuiteMind AI Prototype - chat interface 
+ * 1.0           March,2026     Ramanand Dubey         Initial version - SuiteMind AI Prototype - chat interface 
  */
 
 define(['N/ui/serverWidget', 'N/runtime', 'N/record', 'N/url'],

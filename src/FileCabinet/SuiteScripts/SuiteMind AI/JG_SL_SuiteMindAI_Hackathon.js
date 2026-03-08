@@ -9,7 +9,7 @@
 
 /**
  * Version       Date           Author                 Description
- * 1.0           2026-02-14     Ramanand Dubey         Initial version - SuiteMind AI Home Page
+ * 1.0           March,2026     Ramanand Dubey         Initial version - SuiteMind AI Home Page
  */
 
 define(['N/runtime', 'N/log', 'N/url'],
@@ -192,7 +192,7 @@ define(['N/runtime', 'N/log', 'N/url'],
                             <div class="dashboard-grid single-row">
                                 <section class="panel list-panel">
                                     <div class="panel-header">
-                                        <h2>Recently Trained PDFs</h2>
+                                        <h2>Recently Trained Processes</h2>
                                         <a href="#" class="view-all">View All</a>
                                     </div>
                                     <div class="panel-body">
@@ -200,7 +200,7 @@ define(['N/runtime', 'N/log', 'N/url'],
                                             <li>
                                                 <div class="doc-icon">📄</div>
                                                 <div class="doc-info">
-                                                    <strong>Sandbox_Refresh_Checklist.pdf</strong>
+                                                    <strong>Sandbox Refresh Checklist.pdf</strong>
                                                     <span>Trained 2 hours ago by S. Admin</span>
                                                 </div>
                                                 <div class="doc-status success">Active</div>

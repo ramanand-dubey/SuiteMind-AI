@@ -5,7 +5,7 @@
  */
 /**
  * Version       Date           Author                 Description
- * 1.0           27-02-2026     Ramanand Dubey         Initial version - SuiteMind AI Prototype - Backend pdf file processing.
+ * 1.0           March,2026     Ramanand Dubey         Initial version - SuiteMind AI Prototype - Backend pdf file processing.
  */
 define(['N/llm', './Lib/JG_Lib_SuiteMindAI_Helper'],
     /**

@@ -5,7 +5,7 @@
  * */
 /**
  * Version       Date           Author                 Description
- * 1.0           25-02-2026     Ramanand Dubey         Initial version - SuiteMind AI Admin UI - For PDF Upload
+ * 1.0           March,2026     Ramanand Dubey         Initial version - SuiteMind AI Admin UI - For PDF Upload
  */
 
 define(['N/runtime', 'N/log', 'N/url', 'N/search', 'N/record'],

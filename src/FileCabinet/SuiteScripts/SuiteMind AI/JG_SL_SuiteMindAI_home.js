@@ -9,7 +9,7 @@
 
 /**
  * Version       Date           Author                 Description
- * 1.0           2026-02-14     Ramanand Dubey         Initial version - SuiteMind AI Home Page
+ * 1.0           March,2026     Ramanand Dubey         Initial version - SuiteMind AI Home Page
  */
 
 define(['N/runtime', 'N/log', 'N/url', './Lib/JG_Lib_SuiteMindAI_Helper'],
@@ -147,7 +147,7 @@ define(['N/runtime', 'N/log', 'N/url', './Lib/JG_Lib_SuiteMindAI_Helper'],
                     <div class="home-card-icon" aria-hidden="true">📊</div>
                     <h2 class="home-card-title">Dashboard</h2>
                     <p class="home-card-desc">Visualize workflows and see real-time AI impact analysis of SuiteMind AI Processes.</p>
-                    <span class="home-card-cta" style="background: linear-gradient(135deg, #f59e0b 0%, #d97706 100%); color: white;">View Intelligence →</span>
+                    <span class="home-card-cta" style="background: linear-gradient(135deg, #f59e0b 0%, #d97706 100%); color: white;">View Dashboard →</span>
                     </a>`;
         }
 
